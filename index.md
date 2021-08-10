@@ -20,5 +20,5 @@ https://github.com/LiliaIb450/Hoteleria-
 ------------
 
 Alumno: Lilia Zuñiga 
-Materia: Administracio Y DiseñO De Bases De Datos
+Materia: Administracio Y Diseño De Bases De Datos
 Creacion: 10/08/2021
