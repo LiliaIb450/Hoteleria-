@@ -12,6 +12,9 @@ https://github.com/LiliaIb450/Hoteleria-
 ### Mini Diagrama 
 <a href='https://postimg.cc/MnZq4W4F' target='_blank'><img src='https://i.postimg.cc/MnZq4W4F/ERD-con-entidades-coloreadas-notaci-n-UML.png' border='0' alt='ERD-con-entidades-coloreadas-notaci-n-UML'/></a>
 
+#### Imagenes Del Proyecto 
+[![2021-08-10-3.png](https://i.postimg.cc/fTTTw5V7/2021-08-10-3.png)](https://postimg.cc/BtkGpTct)
+
 ### Créditos 
 
 ------------
