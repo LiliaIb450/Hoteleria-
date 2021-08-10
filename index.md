@@ -9,6 +9,8 @@ Se desarrolla una aplicación Web para la gestión de los datos requeridos sobre
 ####  URL Del Repositorio: 
 https://github.com/LiliaIb450/Hoteleria-
 
+### Mini Diagrama 
+<a href='https://postimg.cc/MnZq4W4F' target='_blank'><img src='https://i.postimg.cc/MnZq4W4F/ERD-con-entidades-coloreadas-notaci-n-UML.png' border='0' alt='ERD-con-entidades-coloreadas-notaci-n-UML'/></a>
 
 ### Créditos 
 
