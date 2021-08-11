@@ -15,8 +15,14 @@ https://github.com/LiliaIb450/Hoteleria-
 #### Imagenes Del Proyecto 
 [![2021-08-10-3.png](https://i.postimg.cc/fTTTw5V7/2021-08-10-3.png)](https://postimg.cc/BtkGpTct)
 
+
+#####  Enlace video 
+https://www.youtube.com/watch?v=Wj3k8MV4ocA 
 ### Créditos 
 
+Diagramas2 
+<a href='https://postimg.cc/VdD2Pg9Y' target='_blank'><img src='https://i.postimg.cc/VdD2Pg9Y/2021-08-10-7.png' border='0' alt='2021-08-10-7'/></a>
+<a href='https://postimg.cc/QVDzBw08' target='_blank'><img src='https://i.postimg.cc/QVDzBw08/2021-08-10-8.png' border='0' alt='2021-08-10-8'/></a>
 ------------
 
 Alumno: Lilia Zuñiga 
