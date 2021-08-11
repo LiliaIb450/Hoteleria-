@@ -5,7 +5,7 @@ En está ocasión se realizo una página web con un diseño de una base de datos
 
 ### Objetivo General Del Proyecto 
 Se desarrolla una aplicación Web para la gestión de los datos requeridos sobre el tema Hotelería , asi como la creación de una base de datos, de manera que el amuno aplique los conocimientos recolectados en el sexto cuatrimestre. 
-
+[Video Base_Datos](http://https://www.youtube.com/watch?v=Wj3k8MV4ocA "Video Base_Datos")
 ####  URL Del Repositorio: 
 https://github.com/LiliaIb450/Hoteleria-
 
@@ -16,8 +16,7 @@ https://github.com/LiliaIb450/Hoteleria-
 [![2021-08-10-3.png](https://i.postimg.cc/fTTTw5V7/2021-08-10-3.png)](https://postimg.cc/BtkGpTct)
 
 
-#####  Enlace video 
-https://www.youtube.com/watch?v=Wj3k8MV4ocA 
+
 ### Créditos 
 
 Diagramas2 
